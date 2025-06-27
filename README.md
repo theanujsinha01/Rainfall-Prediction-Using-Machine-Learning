@@ -3,7 +3,7 @@ This project predicts whether it will rain or not based on weather features like
 This project is a **web-based application** that predicts whether it will rain today based on real-world weather input features like pressure, humidity, cloud cover, sunshine, etc. It uses a **Random Forest Classifier** trained on historical weather data and is deployed as an interactive **Streamlit app**.
 
 ---
-
+## Live : https://rainfall-prediction-using-machine-learning.streamlit.app/
 ## 📌 Problem Statement
 
 Predicting rainfall is crucial in weather forecasting. It helps:
